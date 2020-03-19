@@ -1,0 +1,9 @@
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\bin\Debug\HardwareBackOffice.exe.config
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\bin\Debug\HardwareBackOffice.exe
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\bin\Debug\HardwareBackOffice.pdb
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\obj\Debug\HardwareBackOffice.csprojAssemblyReference.cache
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\obj\Debug\HardwareBackOffice.Properties.Resources.resources
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\obj\Debug\HardwareBackOffice.csproj.GenerateResource.cache
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\obj\Debug\HardwareBackOffice.csproj.CoreCompileInputs.cache
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\obj\Debug\HardwareBackOffice.exe
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareBackOffice\obj\Debug\HardwareBackOffice.pdb

@@ -1,0 +1,12 @@
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareClasses\bin\Debug\HardwareClasses.dll
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareClasses\bin\Debug\HardwareClasses.pdb
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareClasses\obj\Debug\HardwareClasses.csprojAssemblyReference.cache
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareClasses\obj\Debug\HardwareClasses.csproj.CoreCompileInputs.cache
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareClasses\obj\Debug\HardwareClasses.dll
+\\vfiler1.lec-admin.dmu.ac.uk\Home1\P2445061\Documents\agile_team\staff\HardwareClasses\obj\Debug\HardwareClasses.pdb
+H:\Documents\agile_team\staff solo\HardwareClasses\bin\Debug\HardwareClasses.dll
+H:\Documents\agile_team\staff solo\HardwareClasses\bin\Debug\HardwareClasses.pdb
+H:\Documents\agile_team\staff solo\HardwareClasses\obj\Debug\HardwareClasses.csprojAssemblyReference.cache
+H:\Documents\agile_team\staff solo\HardwareClasses\obj\Debug\HardwareClasses.csproj.CoreCompileInputs.cache
+H:\Documents\agile_team\staff solo\HardwareClasses\obj\Debug\HardwareClasses.dll
+H:\Documents\agile_team\staff solo\HardwareClasses\obj\Debug\HardwareClasses.pdb
